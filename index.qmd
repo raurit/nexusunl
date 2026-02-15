@@ -1,7 +1,10 @@
 ---
-title: "Nexus Unl"
+title: "nexus"
 ---
+::: {.section1}
+**Nexus** \[*noun*\]
 
-# Nexus
-*The choice that connects us*
-
+1. a connection or series of connections linking two or more things.
+2. a connected group or series.
+3. the central and most important point or place.
+:::

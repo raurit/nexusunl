@@ -1,1 +1,58 @@
 /* css styles */
+.custom-background {
+    background-color: #cce7f1; /* Light blue background */
+    padding: 10px;
+}
+
+@font-face {
+    font-family: 'NexusHeader'; /* Name your font here */
+    src: url('Tondu-Beta.ttf') format('truetype'); /* Adjust the path */
+}
+
+@font-face {
+    font-family: 'NexusBody'; 
+    src: url('Butler_Medium.otf') format('truetype'); 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'NexusHeader', sans-serif; /* Apply the font to headers */
+}
+
+body {
+  font-family: 'NexusBody', sans-serif;
+    background-image: url('chapelHands.png');
+    background-size: cover; /* Adjusts size to cover entire screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents image from repeating */
+}
+
+
+.color1 {
+  color: #cce7f1;
+}
+
+.color2 {
+  color: #61c2a2;
+}
+
+.color3 {
+  color: #1d617a;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.section1 {
+    background-color: #1d617a;
+    color: #cce7f1;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.section2 {
+    background-color: #cce7f1;
+    color: #1d617a;
+    padding: 20px;
+    border-radius: 15px;
+}

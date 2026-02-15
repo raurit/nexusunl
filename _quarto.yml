@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "NexusUnl"
+  title: "nexus unl"
+  favicon: "Nexus UNL branding.png"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
+      - support.qmd
 
 format:
   html:

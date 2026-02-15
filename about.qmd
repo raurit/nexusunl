@@ -1,20 +1,15 @@
 ---
-title: "About Us"
+title: "about us"
 ---
-
-# Nexus
-\[noun\]
-
-1. a connection or series of connections linking two or more things.
-2. a connected group or series.
-3. the central and most important point or place.
-
-
-# What is Nexus?
+::: {.color3}
+# what is nexus?
+:::
+::: {.section2}
 ***Nexus*** is Student Election Group preparing for the 2026 UNL ASUN Elections. 
 
 We are currently in the recruiting phase until February 23rd when SEGs are permitted to begin visible campaigning.
 
 I hope you consider joining ***Nexus***!
 
-> - *Kyanne Casperson, Nexus President*
+- *Kyanne Casperson, Nexus President*
+:::
