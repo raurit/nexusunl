@@ -1,0 +1,17 @@
+---
+title: "meet the team"
+---
+::: {.section1 .spacer}
+# Kyanne Casperson
+*President*
+:::
+
+::: {.section2 .spacer}
+# Bret Fulton
+*Internal Vice President*
+:::
+
+::: {.section3 .spacer}
+# Rayne Aurit
+*External Vice President*
+:::

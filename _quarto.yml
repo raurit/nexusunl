@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - about.qmd
-      - support.qmd
+      - the-team.qmd
 
 format:
   html:

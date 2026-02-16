@@ -23,9 +23,16 @@ body {
     background-image: url('chapelHands.png');
     background-size: cover; /* Adjusts size to cover entire screen */
     background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents image from repeating */
+ /* Prevents image from repeating */
 }
 
+.spacer {
+  margin-top: 50px;
+}
+
+.spacer-big {
+    margin-top: 250px; /* Adjust this value as needed */
+}
 
 .color1 {
   color: #cce7f1;
@@ -56,3 +63,64 @@ body {
     padding: 20px;
     border-radius: 15px;
 }
+
+.section3 {
+    background-color: #ffffff;
+    color: #61c2a2;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.section3-1 {
+  background-color: #ffffff;
+  color: #61c2a2;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.section3-2 {
+  background-color: #ffffff;
+  color: #1d617a;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+
+.custom-button {
+    background-color: #61c2a2; /* Green background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    padding: 10px 20px;        /* Padding */
+    text-align: center;        /* Center text */
+    text-decoration: none;      /* No underline */
+    display: inline-block;      /* Inline-block display */
+    font-size: 16px;           /* Font size */
+    margin: 4px 2px;          /* Margin */
+    cursor: pointer;           /* Pointer cursor on hover */
+    border-radius: 5px;        /* Rounded corners */
+}
+
+.custom-button:hover {
+    background-color: #cce7f1; /* Darker green on hover */
+}
+
+.grid-container {
+    display: grid;                     /* Use grid layout */
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 20px;                         /* Space between columns */
+    padding: 20px;                    /* Padding inside the container */
+}
+
+.grid-column {
+    text-align: center;                /* Center text and inline elements */
+    background-color: #f9f9f9;         /* Light background for columns */
+    padding: 20px;                     /* Padding inside each column */
+    border: 1px solid #ddd;            /* Border around each column */
+    border-radius: 4px;                /* Rounded corners */
+}
+
+.grid-column a {
+    display: inline-block;              /* Enable margin and padding */
+    margin-top: 10px;                  /* Space above the button */
+}
+
