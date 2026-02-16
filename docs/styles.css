@@ -73,7 +73,7 @@ body {
 
 .section3-1 {
   background-color: #ffffff;
-  color: #61c2a2;
+  color: #cce7f1;
   padding: 20px;
   border-radius: 15px;
 }
@@ -108,14 +108,10 @@ body {
     display: grid;                     /* Use grid layout */
     grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
     gap: 20px;                         /* Space between columns */
-    padding: 20px;                    /* Padding inside the container */
 }
 
 .grid-column {
     text-align: center;                /* Center text and inline elements */
-    background-color: #f9f9f9;         /* Light background for columns */
-    padding: 20px;                     /* Padding inside each column */
-    border: 1px solid #ddd;            /* Border around each column */
     border-radius: 4px;                /* Rounded corners */
 }
 

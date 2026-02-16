@@ -13,3 +13,16 @@ I hope you consider joining ***Nexus***!
 
 - *Kyanne Casperson, Nexus President*
 :::
+
+::: {.section1 .spacer}
+# you are our why
+Student testimonials
+:::
+
+::: {.section3-2}
+"I am a student who was heavily impacted by the budget cuts last semester. Statistics is a small department, so you tend to know everyone in it. You get the same professor multiple semesters in a row with smaller class sizes. UNL needs to be able to offer the small school feel for majors that are more specialized."
+:::
+
+::: {.section3}
+"I believe that Nexus is going to look out for students better than the previous ASUN."
+:::

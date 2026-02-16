@@ -1,5 +1,5 @@
 ::: {.section1}
-Nexus \[*noun*\]
+**Nexus** \[*noun*\]
 
 1. a connection or series of connections linking two or more things.
 2. a connected group or series.
@@ -9,10 +9,10 @@ Nexus \[*noun*\]
 ::: {.section3-2 .spacer-big}
 <div class="grid-container">
   <div class="grid-column">
-  <a href="about.qmd" class="custom-button">Who We Are</a>
+  <a href="about.qmd" class="custom-button">About Nexus</a>
   </div>
   <div class="grid-column">
-  <a href="the-team.qmd" class="custom-button">Our Values</a>
+  <a href="#values" class="custom-button">Our Values</a>
   </div>
   <div class="grid-column">
   <a href="the-team.qmd" class="custom-button">Our Team</a>
@@ -32,15 +32,22 @@ I'm running for student body president and student regent here at the University
 - *Kyanne Casperson*
 ::: 
 
+![](Nexus UNL branding.png)
+
 ::: {.section3-2}
-# our values
+# our values {#values}
 1. **Student Regent Vote**: Following through on a neglected promise to advocate that the Student Regent position be made a voting member of the UNL Board of Regents.
 2. **Addressing Financial Insecurity**: Ensuring the basic needs of the students at this university are met, from books & supplies to housing & food. All Huskers deserve an equal chance to succeed.
 3. **Bringing Students Together**: Creating mentorship and community-building opportunities between undergrad, international, graduate, and professional school students.
 4. **Increase Involvement with the Nebraska Legislature**: Increasing student understanding of the Nebraska Legislature's role in recent UNL budget issues and increasing student involvement where possible.
 :::
 
-::: {.section3}
+::: {.section2}
+# get involved
+We are looking for motivated students to join our campaign. While the A2 form deadline has passed, you can still get involved! Visit [our team page](the-team.qmd) and contact our executive team.
+:::
+
+::: {.section3 .spacer}
 # support us
 Do you like what you see? You can directly aid our efforts in the current ASUN election by donating [here]().
 :::
