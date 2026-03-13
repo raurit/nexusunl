@@ -14,3 +14,7 @@ title: "google form"
   </iframe>
 </div>
 ```
+
+::: {.spacer .section2}
+If the google form does not appear, access it at [this link](https://forms.gle/JBrY1vcSqbgny7WP9)
+:::
