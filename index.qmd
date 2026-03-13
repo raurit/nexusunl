@@ -23,7 +23,7 @@
 ::: {.spacer .section2}
 # message from our president
 
-![](images/Nexus UNL branding.png){style="float: left; margin-right: 1.5rem; margin-bottom: 0.5rem;" width=300}
+![](images/Nexus UNL branding.png){style="float: left; margin-right: 1.5rem; margin-bottom: 0.5rem;" width=150}
 
 "If you ever felt like student goverment just isn't for you, you are not alone. My name is Kyanne Casperson. I'm a student at the College of Arts and Sciences here at the University of Nebraska-Lincoln. For a lot of students, ASUN feels complicated, hard to access, more about titles and resumes than about creating real change.
 
