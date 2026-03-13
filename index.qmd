@@ -6,13 +6,13 @@
 3. the central and most important point or place.
 ::: 
 
-::: {.spacer-big}
+::: {.spacer}
 <div class="grid-container">
   <div class="grid-column">
-  <a href="about.qmd" class="custom-button">About Nexus</a>
+  <a href="#values" class="custom-button">Our Values</a>
   </div>
   <div class="grid-column">
-  <a href="#values" class="custom-button">Our Values</a>
+  <a href="google-form.qmd" class="custom-button">Tell Us Your Concerns</a>
   </div>
   <div class="grid-column">
   <a href="the-team.qmd" class="custom-button">Our Team</a>
@@ -38,7 +38,7 @@ I'm running for student body president and student regent here at the University
 
 
 
-::: {.section3-2}
+::: {.section3-2 .spacer}
 # our values {#values}
 1. **Student Regent Vote**: Following through on a neglected promise to advocate that the Student Regent position be made a voting member of the UNL Board of Regents.
 2. **Addressing Financial Insecurity**: Ensuring the basic needs of the students at this university are met, from books & supplies to housing & food. All Huskers deserve an equal chance to succeed.
