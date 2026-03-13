@@ -4,18 +4,23 @@ project:
 
 website:
   title: "nexus unl"
-  favicon: "Nexus UNL branding.png"
+  favicon: "images/favicon.png"
   navbar:
     left:
       - about.qmd
       - the-team.qmd
+      - google-form.qmd
+  page-footer:
+    left: "© 2026 Nexus UNL"
+    center: "Nexus is a Student Election Group for the ASUN 2026 Election. Voting takes place on March 31st and April 1st."
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme:
       - cosmo
       - brand
-    css: styles.css
+    css: fonts-and-styles/styles.css
     toc: true
 
 

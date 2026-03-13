@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'NexusBody'; 
-    src: url('Butler_Medium.otf') format('truetype'); 
+    src: url('LinuxLibertine-RdWo.ttf') format('truetype'); 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,10 +20,12 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: 'NexusBody', sans-serif;
-    background-image: url('chapelHands.png');
-    background-size: cover; /* Adjusts size to cover entire screen */
-    background-position: center; /* Centers the image */
- /* Prevents image from repeating */
+  background-image: url("../images/chapelHands.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 400px;
 }
 
 .spacer {
@@ -120,3 +122,10 @@ body {
     margin-top: 10px;                  /* Space above the button */
 }
 
+.heading-box {
+    background-color: #ffffff; /* Light blue background */
+    border: 2px solid #1d617a; /* Border color */
+    padding: 15px; /* Padding inside the box */
+    border-radius: 5px; /* Rounded corners */
+    font-weight: bold; /* Bold text */
+}

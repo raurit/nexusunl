@@ -17,12 +17,14 @@ I hope you consider joining ***Nexus***!
 ::: {.section1 .spacer}
 # you are our why
 Student testimonials
+
+Want to see your own student testimonial on here? Fill out the Google form [here](google-form.qmd).
 :::
 
-::: {.section3-2}
+::: {.section3-2 .spacer}
 "I am a student who was heavily impacted by the budget cuts last semester. Statistics is a small department, so you tend to know everyone in it. You get the same professor multiple semesters in a row with smaller class sizes. UNL needs to be able to offer the small school feel for majors that are more specialized."
 :::
 
 ::: {.section3}
-"I believe that Nexus is going to look out for students better than the previous ASUN."
+"I was disappointed that the current president couldn't even side with the students with her symbolic vote in the program cuts board of regents meeting. I think we need people that actually speak for the students, even if it doesn't look good to the board of regents."
 :::
