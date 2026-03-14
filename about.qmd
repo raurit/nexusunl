@@ -28,3 +28,7 @@ Want to see your own student testimonial on here? Fill out the Google form [here
 ::: {.section3}
 "I was disappointed that the current president couldn't even side with the students with her symbolic vote in the program cuts board of regents meeting. I think we need people that actually speak for the students, even if it doesn't look good to the board of regents."
 :::
+
+::: {.section3-2}
+"I have no idea about anything that asun does."
+:::
