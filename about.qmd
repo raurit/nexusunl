@@ -1,10 +1,6 @@
 ---
 title: "about us"
 ---
-::: {.section3-2}
-# what is nexus?
-***Nexus*** is Student Election Group preparing for the 2026 UNL ASUN Elections. 
-:::
 
 ::: {.section1 .spacer}
 # mission statement
