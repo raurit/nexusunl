@@ -1,17 +1,34 @@
 ---
 title: "about us"
 ---
-::: {.color3}
+::: {.section3-2}
 # what is nexus?
-:::
-::: {.section2}
 ***Nexus*** is Student Election Group preparing for the 2026 UNL ASUN Elections. 
+:::
 
-We are currently in the recruiting phase until February 23rd when SEGs are permitted to begin visible campaigning.
+::: {.section1 .spacer}
+# mission statement
 
-I hope you consider joining ***Nexus***!
+Nexus UNL is a Student Election Group preparing for the upcoming ASUN Elections at the University of Nebraska-Lincoln. We hope to lead with courage, compassion, and conviction, taking into consideration the different perspectives and needs of our peers as we strive to build a Student Government that is more welcoming, accessible, and representative to and of all students at this University.
+:::
 
-- *Kyanne Casperson, Nexus President*
+::: {.section2 .spacer}
+# our mission
+
+To build a Student Government that is **more welcoming**:
+
+- Nexus UNL is determined to meet students where they are and to establish and maintain relationships with a vast array of majors, colleges, RSOs, Advisory Boards, Student Councils, Fraternities, and Sororities alike to increase awareness of and collaboration with ASUN at UNL.
+- Additionally, if elected, we hope to work towards increased student involvement in ASUN Senate Meetings.
+
+To build a Student Government that is **more accessible**:
+
+- Nexus UNL is determined to increase student involvement in ASUN Senate Meetings by allowing students to watch them virtually, either live or from a published recording, and submit testimony online regarding bills that are proposed. This will ensure that more students are able to access these Senate Meetings.
+- Another important factor of accessibility is the accessibility of information.
+- As of last month, there were only 6 “weekly packets” available on the ASUN website for the total of ~15 weeks’ worth of meetings they have had this academic year. If elected, Nexus UNL will ensure that these ‘weekly’ documents are made available to the student body, weekly. Students who do not have Instagram should not be left out from knowing about the bills and appointments made by ASUN. That is not transparency.
+
+To build a Student Government that is **more representative**:
+
+- Nexus UNL is dedicated to making Student Government more representative of the Student Body by providing more positions within ASUN for demographics of the Student Body whose influence and presence at UNL is not currently represented in the current makeup of ASUN including, but not limited to, International Students, Student Athletes, Greek Life, the RHA, Law School students, and Professional School Students such as those pursuing a career in Veterinary Medicine.
 :::
 
 ::: {.section1 .spacer}
@@ -23,12 +40,8 @@ Want to see your own student testimonial on here? Fill out the Google form [here
 
 ::: {.section3-2 .spacer}
 "I am a student who was heavily impacted by the budget cuts last semester. Statistics is a small department, so you tend to know everyone in it. You get the same professor multiple semesters in a row with smaller class sizes. UNL needs to be able to offer the small school feel for majors that are more specialized."
-:::
 
-::: {.section3}
 "I was disappointed that the current president couldn't even side with the students with her symbolic vote in the program cuts board of regents meeting. I think we need people that actually speak for the students, even if it doesn't look good to the board of regents."
-:::
 
-::: {.section3-2}
-"I have no idea about anything that asun does."
+"I have no idea about anything that ASUN does."
 :::

@@ -2,6 +2,9 @@
 title: "google form"
 ---
 
+::: {.section3-2}
+Fill out this Google form to help Nexus learn more about student's perceptions on ASUN and how we can help with bridging any gaps that may exist.
+
 ```{=html}
 <div style="width:100%;max-width:100%;overflow:hidden;">
   <iframe
@@ -14,6 +17,7 @@ title: "google form"
   </iframe>
 </div>
 ```
+:::
 
 ::: {.spacer .section2 .center-text}
 If the Google form does not appear, access it at [this link](https://forms.gle/JBrY1vcSqbgny7WP9)

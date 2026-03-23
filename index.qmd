@@ -44,6 +44,8 @@ I'm running for student body president and student regent here at the University
 2. **Addressing Financial Insecurity**: Ensuring the basic needs of the students at this university are met, from books & supplies to housing & food. All Huskers deserve an equal chance to succeed.
 3. **Bringing Students Together**: Creating mentorship and community-building opportunities between undergrad, international, graduate, and professional school students.
 4. **Increase Involvement with the Nebraska Legislature**: Increasing student understanding of the Nebraska Legislature's role in recent UNL budget issues and increasing student involvement where possible.
+
+*For more information about our values and mission, visit our [about us page](about.qmd).*
 :::
 
 ::: {.section2 .spacer}
