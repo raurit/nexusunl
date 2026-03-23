@@ -9,6 +9,7 @@ website:
     left:
       - about.qmd
       - the-team.qmd
+      - events.qmd
       - google-form.qmd
   page-footer:
     left: "© 2026 Nexus UNL"
