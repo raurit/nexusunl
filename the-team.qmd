@@ -175,9 +175,11 @@ Family and Consumer Sciences Education - Sophomore
 
 Mechanical Engineering - Senior
 
-![](){style="float: left; margin-right: 1.5rem; margin-bottom: 0.5rem;" width=300}
+![](images/BLittman.jpg){style="float: left; margin-right: 1.5rem; margin-bottom: 0.5rem;" width=300}
 
-*""*
+*"As an involved student, I have seen firsthand the positive impact that student leaders can have on campus. Over my 5 years on campus I have interacted with a lot of campus offices and resources and I want to support the next generation of ASUN leaders by sharing everything I've learned. I want to see student leadership that represents all students, valuing transparency and collaboration.*
+
+*Vote @nexusunl in MyRed March 31-April 1."*
 :::
 
 ::: {.section3-2 .spacer}
