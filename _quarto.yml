@@ -11,6 +11,8 @@ website:
       - the-team.qmd
       - events.qmd
       - google-form.qmd
+      - icon: instagram
+        href: https://www.instagram.com/nexusunl/
   page-footer:
     left: "© 2026 Nexus UNL"
     center: "Nexus is a Student Election Group for the ASUN 2026 Election. Voting takes place on March 31st and April 1st."
